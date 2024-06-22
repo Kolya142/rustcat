@@ -1,10 +1,10 @@
 [package]
 name = "rustcat"
-version = "3.0.0"
-authors = ["robiot"]
+version = "3.0.1"
+authors = ["robiot", "Kolya142"]
 description = "The Modern Port Listener and Reverse Shell"
 license = "GPL-3.0-only"
-repository = "https://github.com/robiot/rustcat"
+repository = "https://github.com/Kolya142/rustcat"
 edition = "2021"
 
 [[bin]]

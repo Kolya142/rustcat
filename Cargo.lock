@@ -335,7 +335,7 @@ dependencies = [
 
 [[package]]
 name = "rustcat"
-version = "3.0.0"
+version = "3.0.1"
 dependencies = [
  "clap",
  "colored 2.0.0",
