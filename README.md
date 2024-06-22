@@ -8,6 +8,14 @@
   	<img alt="GitHub Issues" src="https://img.shields.io/github/issues/robiot/rustcat.svg" />
   	<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/robiot/rustcat" /></a>
 </p>
+<hr>
+<p align="center">
+	Mine Data
+	<br>
+	<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Kolya142/rustcat/total?label=GitHub%20Downloads" />
+  	<img alt="GitHub Issues" src="https://img.shields.io/github/issues/Kolya142/rustcat.svg" />
+  	<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Kolya142/rustcat" /></a>
+</p>
 
 ## What is Rustcat
 Rustcat is an easy to use port listener and reverse shell for Linux, MacOS, and Windows aimed to be easy to use and accessible.
